@@ -1,0 +1,1 @@
+Contains your website’s main pages (e.g., index.html, about.html).

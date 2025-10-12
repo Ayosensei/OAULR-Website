@@ -1,0 +1,1 @@
+Contains everything related to coding (HTML, CSS, JS, components, pages).

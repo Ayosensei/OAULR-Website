@@ -1,0 +1,1 @@
+For assets you don’t plan to modify often — logos, icons, PDFs, etc.

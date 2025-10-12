@@ -1,0 +1,1 @@
+For reusable parts like navigation bars, search bars, or footers.
