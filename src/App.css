@@ -1,0 +1,136 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Montserrat Alternates', sans-serif;
+  padding-top: 1rem;
+  min-height: 100vh;
+}
+
+
+.scales-img-ctn{
+  width: 100%;
+  margin-top: 10px;
+  position: relative;
+}
+.scales-img-ctn img {
+  width: 100%;
+  height: 400px;    
+  object-fit:fill;     
+  display: block;
+  
+}
+.scales-banner-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%; 
+  text-align: center;
+  color: white;
+}
+.scales-banner-text h3{
+  font-size: 4rem;
+}
+.scales-banner-text p{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 450;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.searchbar{
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  width: 50%;
+  min-width: 380px;
+}
+.searchbar input{
+  padding-right: 30px;
+  background-color: white;
+  padding: 8px;
+  width: 100%;
+  border-radius: 3px;
+  outline: none;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1); 
+  border: 0.5px solid #D9D9D9;
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+.searchbar button{
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 10px 5px;
+}
+.searchbtn img{
+  width: 18px;
+} 
+
+
+
+section h2{
+  width: fit-content;
+  margin: auto;
+  margin-top: 24px;
+  color: #2B3151;
+}
+
+.case{
+  box-shadow: 0 0 20px rgba(0,0,0,0.1); 
+  border: 0.5px solid #D9D9D9;
+  width: fit-content;
+  height: 200px;
+  color: #2B3151;
+  padding: 15px;
+  border-radius: 5px;
+  font-family: 'Montserrat'
+}
+
+.case h3{
+  width: fit-content;
+  color: #2B3151;
+  font-size: 1rem;
+}
+
+.code{
+  margin-top: 8px;
+  display: inline-block;
+  color: #525252;
+}
+
+.description{
+  color: #525252;
+  margin-top: 12px;
+  width: 320px;
+
+}
+section button{
+  padding: 5px 8px;
+  margin-top: 15px;
+  border: none;
+  background-color: rgba(231, 151, 4, 0.774);
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.caselist{
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 50px;
+}

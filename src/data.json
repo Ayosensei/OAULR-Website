@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Right to Fair Hearing",
+    "code": "LAW-001",
+    "description": "Every individual is entitled to a fair and public hearing by an independent court within a reasonable time."
+  },
+  {
+    "title": "Freedom of Expression",
+    "code": "LAW-002",
+    "description": "All citizens have the right to express their opinions, provided it does not incite violence or break national laws."
+  },
+  {
+    "title": "Right to Privacy",
+    "code": "LAW-003",
+    "description": "No one should be subjected to unlawful interference with their privacy, family, home, or communication."
+  },
+  {
+    "title": "Protection from Discrimination",
+    "code": "LAW-004",
+    "description": "The law guarantees equal rights and protection for all individuals without discrimination"
+  },
+  {
+    "title": "Right to Education",
+    "code": "LAW-005",
+    "description": "Every child has the right to free and compulsory basic education provided by the state."
+  }
+]
